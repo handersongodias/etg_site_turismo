@@ -1,2 +1,2 @@
-# etg_site_turismo
-site turismo html e css
+# ETG Site de Turismo
+> Site de turismo desenvolvido utilizando apenas HTML e CSS
